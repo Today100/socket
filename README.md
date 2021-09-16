@@ -1,3 +1,3 @@
 # Socket
 
-Practice and learn socket
+Practice and learn socket for fun
